@@ -4,7 +4,7 @@ hmmpress All_HMMv4.hmm
 for file in /METAGENOMES/*.faa;
 do
    samplename=$(basename $file .faa)
-   hmmscan --domtblout HMMER/${samplename}.tbl -E 0.00001 All_HMMv4.hmm /METAGENOMES/${samplename}.faa
+   hmmscan --domtblout HMMER/${samplename}.tbl -E 0.00001 all_iron_HMMs.hmm /METAGENOMES/${samplename}.faa
 done
 conda deactivate
 
@@ -366,4 +366,5 @@ sed 's/$/\tAOP9_A1_surf/' AOP9_A1_surf_RPKM_only.tsv > AOP9_A1_surf_RPKM_vf.tsv
 sed 's/$/\tAOP9_B1_coeur/' AOP9_B1_coeur_RPKM_only.tsv > AOP9_B1_coeur_RPKM_vf.tsv
 sed 's/$/\tAOP9_I1_surf/' AOP9_I1_surf_RPKM_only.tsv > AOP9_I1_surf_RPKM_vf.tsv
 cat *_RPKM_vf.tsv > merged_RPKM.tsv
+
 sed -i '1 i\HMMs_ID\tRPKM\tMetagenomes' merged_RPKM.tsv
