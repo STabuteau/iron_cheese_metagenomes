@@ -1,0 +1,186 @@
+HMMs_ID	Iron acquisition system	Category	Target	Siderophore family	Import componant	HMMs_origin	Bitscores used in this study
+DhbA-VibA-VabA-EntA	Enterobactin-Type	Biosynthesis	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase-siderophore-synthesis	Catecholate	NA	Fegenie	240.5
+DhbB-EntB-VenB-VibB-VabB	Enterobactin-Type	Biosynthesis	Isochorismatase-siderophore-synthesis	Catecholate	NA	Fegenie	196.1
+DhbC-VibC-VabC	Enterobactin-Type	Biosynthesis	Isochorismate synthase-siderophore-synthesis	Catecholate	NA	Fegenie	376.9
+DhbE-PchD-VibE-VabE-EntE-IroD-PvdQ-MbtA	Enterobactin-Type	Biosynthesis	2,3-dihydroxybenzoate-AMP ligase-siderophore-synthesis	Catecholate	NA	Fegenie	467.8
+DhbF-PvdDIJL-VabF	Enterobactin-Type	Biosynthesis	NRPS-siderophore-synthesis	Catecholate	NA	Fegenie	1091.9
+FecB-PvuB-vibrioferrin_transport	Multi_siderophores	Import	siderophore-import-substrate-binding-protein-familly	Multiple families	Substrate-binding	Fegenie	174.6
+FutA1-iron_ABC_transporter_iron-binding-rep	Ferric Iron	Import	FutA1-family-iron-binding-protein-import	Other	Substrate-binding	Fegenie	112
+FutA2-iron_ABC_transporter_iron-binding-rep	Ferric Iron	Import	FutA2-family-iron-binding-proteins	Other	Substrate-binding	Fegenie	115
+Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610	Ferrous Iron	Import	iron-import-iron-binding-proteins-family	Other	Substrate-binding	Fegenie	46.6
+LbtU-LvtA-PiuA-PirA-RhtA-ViuA	Multi_siderophores	Import	LbtU-family-siderophore receptor	Multiple families	Receptor	Fegenie	25
+nramp	Ferrous Iron	Import	familly of metal ion transporter	Other	Porin	Fegenie	25
+PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA	Multi_siderophores	Import	PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA	Multiple families	Receptor	Fegenie	75.3
+PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA	Multi_siderophores	Import	HatD-family-substrate-binding-protein	Multiple families	Substrate-binding	Fegenie	27.5
+PF04183-IucA_IucC-rhbCF-AcsD-PvsD	Multi_siderophores	Biosynthesis	NIS_protein_family-siderophore-synthesis	Multiple families	NA	Fegenie	26.3
+PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA	Multi_siderophores	Import	PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA	Multiple families	Receptor	Fegenie	21.1
+PiuA-siderophore_receptor-rep	Multi_siderophores	Import	PiuA-family-siderophore-receptor	Multiple families	Receptor	Fegenie	101
+PRK13484.1	Multi_siderophores	Import	IreA family TonB-dependent siderophore receptor	Multiple families	Receptor	Fegenie	1197
+PRK13528.1	Enterobactin/Heme	Import	FepA family TonB-dependent siderophore receptor	Catecholate/Other	Receptor	Fegenie	583
+PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE	Enterobactin-Type	Biosynthesis	VabF-family-siderophore-synthesis_NRPS2	Catecholate	NA	Fegenie	272
+PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2	Enterobactin-Type	Biosynthesis	VabF-family-siderophore-synthesis_NRPS3	Catecholate	NA	Fegenie	430
+PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF	Enterobactin-Type	Biosynthesis	VabF-family-siderophore-synthesis_NRPS1	Catecholate	NA	Fegenie	481
+PvsA_vibrioferrin_biosynthesis-rep	Enterobactin-Type	Biosynthesis	PvsA-family-vibrioferrin-synthesis	Catecholate	NA	Fegenie	62
+PvsB-AcsD-IucA-IucC-RhbCF-PvsD	Multi_siderophores	Biosynthesis	PvsB-family-siderophore-synthesis_NIS	Multiple families	NA	Fegenie	17.5
+PvsD-AcsD-IucA-IucC-RhbCF-PvsB	Multi_siderophores	Biosynthesis	PvsD-family-siderophore-synthesis_NIS	Multiple families	NA	Fegenie	17.5
+PvsE-AcsE_vibrioferrin_biosynthesis-rep	Vibrioferrin/Achromobactin	Biosynthesis	PvsE-family-siderophore-synthesis_decarboxylase	Catecholate/Carboxylate	NA	Fegenie	396.2
+PvuB-FecB_vibrioferrin_transport	Multi_siderophores	Import	PvuB-family-periplasmique-binding-protein	Multiple families	Substrate-binding	Fegenie	150
+Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602	Pyoverdine/Pyochelin	Import	FpvC-family-siderophore-transport_periplasmic_binding_prot	MIX/Catecholate	Substrate-binding	Fegenie	18.5
+Sid_FpvF_metal_ion_transport_PA2410_Paeruginosa_PAO1_180602	Pyoverdine/Pyochelin	Import	FpvF-family-siderophore-transport_periplasmic_binding_prot	MIX/Catecholate	Substrate-binding	Fegenie	18.7
+Sid_MbtJ_Mycobactin_biosynthesis_Mycobacterium_tuberculosis_YP_177876.1	Mycobactin	Biosynthesis	MbtJ-family-mycobactin-synthesis	MIX	NA	Fegenie	256.9
+Sid_PvdF_Pyoverdine_biosynthesis_Paeruginosa_PA2396_180623	Pyoverdine	Biosynthesis	PvdF-family-pyocheline-synthesis	MIX	NA	Fegenie	86.9
+Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623	Pyoverdine	Biosynthesis	PvdH-family-pyocheline-synthesis	MIX	NA	Fegenie	98
+Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623	Pyoverdine	Biosynthesis	PvdM-family-pyocheline-modification	MIX	NA	Fegenie	17.9
+Sid_PvdN_Pyoverdine_biosynthesis_Paeruginosa_PA2394_180623	Pyoverdine	Biosynthesis	PvdN-family-pyocheline-modification	MIX	NA	Fegenie	63
+Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623	Pyoverdine	Biosynthesis	PvdO-family-pyocheline-modification	MIX	NA	Fegenie	154
+Sid_PvdP_Pyoverdine_biosynthesis_Paeruginosa_PA2392_180623	Pyoverdine	Biosynthesis	PvdP-family-pyocheline-modification	MIX	NA	Fegenie	92.3
+Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2	Rhizobactin	Biosynthesis	RhbA-family-Rhizobactin-synthesis	MIX	NA	Fegenie	500
+Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1	Rhizobactin/Desferrioxamine	Biosynthesis	RhbB-family-Rhizobactin-synthesis	MIX/Hydroxamate	NA	Fegenie	61.9
+Sid_RhbD_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3Q9	Rhizobactin/Desferrioxamine	Biosynthesis	RhbD-family-Rhizobactin-synthesis_NIS	MIX/Hydroxamate	NA	Fegenie	24
+Sid_RhbE_Rhizobactin_siderophore_biosynthesis_Rhizobium_meliloti_Q9Z3Q8	Rhizobactin	Biosynthesis	RhbE-family-Rhizobactin-synthesis	MIX	NA	Fegenie	324.8
+Sid_VabD_Vanchrobactin_Biosynthesis_Vibrio_anguillarum_AAW66006.2_180623	Enterobactin-Type	Biosynthesis	VabD-family-Vanchrobactin-synthesis	Catecholate	NA	Fegenie	36
+Sid_VibD_Vibriobactin_siderophore_biosynthesis_Vibrio_cholerae_AAD48884.1	Enterobactin-Type	Biosynthesis	VibD-family-Vibriobactin-synthesis	Catecholate	NA	Fegenie	20
+TonB-siderophor	Multi_siderophores	Import	TIGR01783; TonB-dependent siderophore receptor	Multiple families	Receptor	Fegenie	223.5
+VabB-EntB-DhbB-VenB-VibB	Enterobactin-Type	Biosynthesis	VabB-family-isochorismatase_siderophore-synthesis	Catecholate	NA	Fegenie	75
+VabC-DhbC-VibC-EntC-AmoA-PchA	Enterobactin-Type	Biosynthesis	VabC-family-isochorismate-synthase-siderophore-synthesis	Catecholate	NA	Fegenie	161
+VabE_Vanchrobactin_biosynthesis-rep	Enterobactin-Type	Biosynthesis	VabE-family-vanchrobactin-synthesis	Catecholate	NA	Fegenie	10000
+K00216	Enterobactin-Type	Biosynthesis	entA; 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [EC:1.3.1.28]	Catecholate	NA	KOfam	260.47
+K00257	Mycobactin	Biosynthesis	mbtN, fadE14; acyl-ACP dehydrogenase [EC:1.3.99.-]	MIX	NA	KOfam	436.2
+K00824	Baumannoferrin	Biosynthesis	dat; D-alanine transaminase [EC:2.6.1.21]	Hydroxamate	NA	KOfam	285.53
+K01252	Enterobactin-Type	Biosynthesis	entB, dhbB, vibB, mxcF; bifunctional isochorismate lyase / aryl carrier protein [EC:3.3.2.1 6.3.2.14]	Catecholate	NA	KOfam	321.2
+K01582	Multi_siderophores	Biosynthesis	E4.1.1.18, ldcC, cadA; lysine decarboxylase [EC:4.1.1.18]	Multiple families	NA	KOfam	556.23
+K01780	Staphylopine	Biosynthesis	cntK; histidine racemase [EC:5.1.1.24]	Carboxylate	NA	KOfam	163.27
+K01851	Pyochelin	Biosynthesis	pchA; salicylate biosynthesis isochorismate synthase [EC:5.4.4.2]	Catecholate	NA	KOfam	519.1
+K01909	Mycobactin	Biosynthesis	mbtM; long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:6.2.1.20]	MIX	NA	KOfam	429.87
+K02012	Ferric Iron	Import	afuA, fbpA; ironIII transport system substrate-binding protein	Other	Substrate-binding	KOfam	187.93
+K02014	Multi_siderophores	Import	TC.FEV.OM; iron complex outermembrane recepter protein	Multiple families	Receptor	KOfam	161.3
+K02016	Multi_siderophores	Import	ABC.FEV.S; iron complex transport system substrate-binding protein	Multiple families	Substrate-binding	KOfam	154.17
+K02361	Enterobactin-Type	Biosynthesis	entC; isochorismate synthase [EC:5.4.4.2]	Catecholate	NA	KOfam	104.9
+K02362	Enterobactin-Type	Biosynthesis	entD; enterobactin synthetase component D [EC:6.3.2.14 2.7.8.-]	Catecholate	NA	KOfam	776.83
+K02363	Enterobactin-Type	Biosynthesis	entE, dhbE, vibE, mxcE; 2,3-dihydroxybenzoate-AMP ligase [EC:6.3.2.14 2.7.7.58]	Catecholate	NA	KOfam	1380.97
+K02364	Enterobactin-Type	Biosynthesis	entF; enterobactin synthetase component F [EC:6.3.2.14]	Catecholate	NA	KOfam	1550
+K03894	Aerobactin	Biosynthesis	iucA; N2-citryl-N6-acetyl-N6-hydroxylysine synthase [EC:6.3.2.38]	MIX	NA	KOfam	528.23
+K03895	Aerobactin	Biosynthesis	iucC; aerobactin synthase [EC:6.3.2.39]	MIX	NA	KOfam	626.6
+K03896	Aerobactin	Biosynthesis	iucB; acetyl CoA:N6-hydroxylysine acetyl transferase [EC:2.3.1.102]	MIX	NA	KOfam	282.37
+K03897	Aerobactin/Desferrioxamine	Biosynthesis	iucD; lysine N6-hydroxylase [EC:1.14.13.59]	MIX/Hydroxamate	NA	KOfam	376.3
+K04759	Ferrous Iron	Import	feoB; ferrous iron transport protein B	Other	Permease	KOfam	105.07
+K04778	Enterobactin-Type	Biosynthesis	vibH; vibriobactin synthetase	Catecholate	NA	KOfam	697.63
+K04780	Enterobactin-Type	Biosynthesis	dhbF; nonribosomal peptide synthetase DhbF	Catecholate	NA	KOfam	2241
+K04781	Mycobactin/Yersiniabactin	Biosynthesis	mbtI, irp9, ybtS; salicylate synthetase [EC:5.4.4.2 4.2.99.21]	MIX	NA	KOfam	494.33
+K04782	Pyochelin	Biosynthesis	pchB; isochorismate pyruvate lyase [EC:4.2.99.21]	Catecholate	NA	KOfam	87.3
+K04783	Yersiniabactin	Biosynthesis	irp5, ybtE; yersiniabactin salicyl-AMP ligase [EC:6.3.2.-]	MIX	NA	KOfam	798.27
+K04784	Yersiniabactin	Biosynthesis	irp2, HMWP2; yersiniabactin nonribosomal peptide synthetase	MIX	NA	KOfam	1871
+K04785	Yersiniabactin	Biosynthesis	irp3, ybtU; yersiniabactin synthetase, thiazolinyl reductase component	MIX	NA	KOfam	479.37
+K04786	Yersiniabactin	Biosynthesis	irp1, HMWP1; yersiniabactin nonribosomal peptide/polyketide synthase	MIX	NA	KOfam	1555.1
+K04787	Mycobactin	Biosynthesis	mbtA; mycobactin salicyl-AMP ligase [EC:6.3.2.-]	MIX	NA	KOfam	766.97
+K04788	Mycobactin	Biosynthesis	mbtB; mycobactin phenyloxazoline synthetase	MIX	NA	KOfam	1500.8
+K04789	Mycobactin	Biosynthesis	mbtE; mycobactin peptide synthetase MbtE	MIX	NA	KOfam	1334.37
+K04790	Mycobactin	Biosynthesis	mbtC; mycobactin polyketide synthetase MbtC	MIX	NA	KOfam	626.5
+K04791	Mycobactin	Biosynthesis	mbtD; mycobactin polyketide synthetase MbtD	MIX	NA	KOfam	876.87
+K04792	Mycobactin	Biosynthesis	mbtF; mycobactin peptide synthetase MbtF	MIX	NA	KOfam	1459.93
+K04793	Mycobactin	Biosynthesis	mbtG; mycobactin lysine-N-oxygenase	MIX	NA	KOfam	269
+K05375	Mycobactin	Biosynthesis	mbtH, nocI; MbtH protein	MIX	NA	KOfam	23.57
+K07116	Pyoverdine	Biosynthesis	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]	MIX	NA	KOfam	449.97
+K07224	Ferrous/Ferric Iron	Import	efeO; iron uptake system component EfeO	Other	Substrate-binding	KOfam	210.23
+K07230	Ferrous Iron	Import	p19, ftrA; periplasmic iron binding protein	Other	Substrate-binding	KOfam	65.5
+K07243	Ferrous_iron	Import	FTR, FTH1, efeU; high-affinity iron transporter	Other	Permease	KOfam	35.4
+K08197	Multi_siderophores	Import	ARN; MFS transporter, SIT family, siderophore-iron:H+ symporter	Multiple families	Porin	KOfam	399.67
+K10531	Multi_siderophores	Biosynthesis	pvdA, SIDA; L-ornithine N5-monooxygenase [EC:1.14.13.195 1.14.13.196]	Multiple families	NA	KOfam	374.5
+K11604	Ferrous Iron	Import	sitA; manganese/iron transport system substrate-binding protein	Other	Substrate-binding	KOfam	469.23
+K12237	Enterobactin-Type	Biosynthesis	vibF; nonribosomal peptide synthetase VibF	Catecholate	NA	KOfam	1974.2
+K12238	Pyochelin	Biosynthesis	pchD; pyochelin biosynthesis protein PchD	Catecholate	NA	KOfam	917.1
+K12239	Pyochelin	Biosynthesis	pchE; dihydroaeruginoic acid synthetase	Catecholate	NA	KOfam	1578.87
+K12240	Pyochelin	Biosynthesis	pchF; pyochelin synthetase	Catecholate	NA	KOfam	1662.5
+K12241	Pyochelin	Biosynthesis	pchG; pyochelin biosynthetic protein PchG	Catecholate	NA	KOfam	335.77
+K12346	Fungi Ferrous Iron	Import	SMF; metal iron transporter	Other	Porin	KOfam	503.43
+K13745	Baumannoferrin/Desferrioxamine	Biosynthesis	ddc; L-2,4-diaminobutyrate decarboxylase [EC:4.1.1.86]	Hydroxamate	NA	KOfam	407.53
+K14759	Enterobactin-Type	Biosynthesis	PHYLLO; isochorismate synthase / 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase / 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase / o-succinylbenzoate synthase [EC:5.4.4.2 2.2.1.9 4.2.99.20 4.2.1.113]	Catecholate	NA	KOfam	1251
+K15584	Staphylopine	Import	nikA, cntA; nickel transport system substrate-binding protein	Carboxylate	Substrate-binding	KOfam	475.1
+K15652	Petrobactin	Biosynthesis	asbF; 3-dehydroshikimate dehydratase [EC:4.2.1.118]	MIX	NA	KOfam	239.9
+K15653	Myxochelin	Biosynthesis	mxcG; nonribosomal peptide synthetase MxcG	Catecholate	NA	KOfam	1373.87
+K15681	Myxochelin	Biosynthesis	mxcL; aminotransferase MxcL	Catecholate	NA	KOfam	612.43
+K15721	Yersiniabactin	Import	fyuA; pesticin/yersiniabactin receptor	MIX	Receptor	KOfam	582.4
+K16088	Multi_siderophores	Import	TC.FEV.OM1, fhuE, fpvA, fptA; outer-membrane receptor for ferric coprogen and ferric-rhodotorulic acid	Multiple families	Receptor	KOfam	503
+K16089	Enterobactin/Heme	Import	TC.FEV.OM2, cirA, cfrA, hmuR; outer membrane receptor for ferrienterochelin and colicins	Catecholate/Other	Receptor	KOfam	438.57
+K16090	Catecholate	Import	fiu; catecholate siderophore receptor	Catecholate	Receptor	KOfam	589.77
+K16091	Ferri-Citrate	Import	fecA; Fe3+ dicitrate transport protein	Other	Receptor	KOfam	339.6
+K19611	Salmochelin/Enterobactin	Import	fepA, pfeA, iroN, pirA; ferric enterobactin receptor	Catecholate	Receptor	KOfam	426.07
+K19791	Fungi Ferric Iron	Import	FET3_5; iron transport multicopper oxidase	Other	RedOx	KOfam	465.23
+K19792	Ferrous_iron	Import	FET4; low-affinity ferrous iron transport protein	Other	Permease	KOfam	437.1
+K21476	Leporin/Pulcherrimin	Biosynthesis	LEPD; leporin biosynthesis cytochrome P450 monooxygenase	Hydroxamate	NA	KOfam	1
+K21721	StaphyloferrinB	Biosynthesis	sbnB; N-[2S-2-amino-2-carboxyethyl]-L-glutamate dehydrogenase [EC:1.5.1.51]	Carboxylate	NA	KOfam	398.87
+K21949	StaphyloferrinB	Biosynthesis	sbnA; N-2-amino-2-carboxyethyl-L-glutamate synthase [EC:2.5.1.140]	Carboxylate	NA	KOfam	336.97
+K21992	Mycobactin	Biosynthesis	mbtK; lysine N-acyltransferase [EC:2.3.1.-]	MIX	NA	KOfam	223.53
+K22148	Ferricrocin	Biosynthesis	SIDC; ferricrocin synthase	Hydroxamate	NA	KOfam	1278.17
+K22149	Multi_siderophores	Biosynthesis	SIDI; mevalonyl-CoA ligase	Multiple families	NA	KOfam	640.97
+K22150	Multi_siderophores	Biosynthesis	SIDH; mevalonyl-CoA hydratase	Multiple families	NA	KOfam	433.77
+K22151	Multi_siderophores	Biosynthesis	SIDF; N5-hydroxy-L-ornithine N5-transacylase	Multiple families	NA	KOfam	339
+K22152	Fusarinine	Biosynthesis	SIDD; fusarinine C synthase	Hydroxamate	NA	KOfam	1129.1
+K22153	TAFC	Biosynthesis	SIDG; fusarinine C N2-transacetylase	Hydroxamate	NA	KOfam	303.5
+K23120	Staphylopine	Biosynthesis	cntL; histidine 2-aminobutanoyltransferase [EC:2.5.1.152 2.5.1.-]	Carboxylate	NA	KOfam	216.33
+K23122	Staphylopine	Biosynthesis	cntM; staphylopine/pseudopaline/yersinopine synthase [EC:1.5.1.52 1.5.1.-]	Carboxylate	NA	KOfam	316.27
+K23181	Ferri-Citrate	Import	fecB; ferric citrate transport system substrate-binding protein	Other	Substrate-binding	KOfam	347.37
+K23185	Enterobactin-Type	Import	fepB; ferric enterobactin transport system substrate-binding protein	Catecholate	Substrate-binding	KOfam	209.2
+K23227	Hydroxamate	Import	fhuD; ferric hydroxamate transport system substrate-binding protein	Hydroxamate	Substrate-binding	KOfam	198.13
+K23371	StaphyloferrinB	Biosynthesis	sbnI; L-serine kinase ATP / ParB family transcriptional regulator, heme-responsive regulator [EC:2.7.1.225]	Carboxylate	NA	KOfam	158.7
+K23372	StaphyloferrinB	Biosynthesis	sbnE; L-2,3-diaminopropanoate---citrate ligase [EC:6.3.2.54]	Carboxylate	NA	KOfam	502.17
+K23373	StaphyloferrinB	Biosynthesis	sbnH; 2-[L-alanin-3-ylcarbamoylmethyl]-2-hydroxybutanedioate decarboxylase [EC:4.1.1.117]	Carboxylate	NA	KOfam	544.73
+K23374	StaphyloferrinB	Biosynthesis	sbnF; 2-[L-alanin-3-ylcarbamoylmethyl]-3-2-aminoethylcarbamoyl-2-hydroxypropanoate synthase [EC:6.3.2.55]	Carboxylate	NA	KOfam	711.17
+K23375	StaphyloferrinB	Biosynthesis	sbnC; staphyloferrin B synthase [EC:6.3.2.56]	Carboxylate	NA	KOfam	423.6
+K23376	StaphyloferrinB	Biosynthesis	sbnG; staphyloferrin B biosynthesis citrate synthase	Carboxylate	NA	KOfam	299.07
+K23446	StaphyloferrinA	Biosynthesis	sfnaD; D-ornithine---citrate ligase [EC:6.3.2.58]	Carboxylate	NA	KOfam	554.6
+K23447	StaphyloferrinA	Biosynthesis	sfnaB; staphyloferrin A synthase [EC:6.3.2.57]	Carboxylate	NA	KOfam	499.9
+K23725	Salmochelin/Enterobactin	Biosynthesis	iroB; enterobactin C-glucosyltransferase [EC:2.4.1.369]	Catecholate	NA	KOfam	516.8
+K24101	Enterobactin-Type	Biosynthesis	vabF; L-arginine---[L-arginyl-carrier protein] ligase [EC:6.2.1.63]	Catecholate	NA	KOfam	1909.67
+K24108	Petrobactin	Biosynthesis	asbA; spermidine-citrate ligase [EC:6.3.2.-]	MIX	NA	KOfam	573.73
+K24109	Petrobactin	Biosynthesis	asbB; 3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase [EC:6.3.2.-]	MIX	NA	KOfam	680.87
+K24110	Petrobactin	Biosynthesis	asbC; 3,4-dihydroxybenzoate---[aryl-carrier protein] ligase [EC:6.2.1.62]	MIX	NA	KOfam	538.93
+K24111	Petrobactin	Biosynthesis	asbD; aryl carrier protein AsbD	MIX	NA	KOfam	97.4
+K24112	Petrobactin	Biosynthesis	asbE; petrobactin synthase [EC:2.-.-.-]	MIX	NA	KOfam	243.6
+K25109	Multi_siderophores	Import	sirA, fecB, cbrA; iron-siderophore transport system substrate-binding protein	Multiple families	Substrate-binding	KOfam	360.9
+K25113	StaphyloferrinA/Heme	Import	htsA, isdE; heme transport system substrate-binding protein	Carboxylate/Other	Substrate-binding	KOfam	241.07
+K25282	Enterobactin/Petrobactin	Import	yclQ, ceuA; iron-siderophore transport system substrate-binding protein	MIX/Catecholate	Substrate-binding	KOfam	212.3
+K25286	Multi_siderophores	Import	fagD, cchF, irp1A, piaA; iron-siderophore transport system substrate-binding protein	Multiple families	Substrate-binding	KOfam	274.67
+K25287	Desferrioxamine	Import	desE; iron-desferrioxamine transport system substrate-binding protein	Hydroxamate	Substrate-binding	KOfam	222.47
+K25308	Hydroxamate/Heme	Import	fhuD, ftsB, siuD; ferric hydroxamate/heme transport system substrate-binding protein	Hydroxamate/Other	Substrate-binding	KOfam	263.87
+FslA	Rhizoferrin	Biosynthesis	FslA; rhizoferrin biosynthesis protein FslA	Carboxylate	NA	NCBI	1000
+FslC	Rhizoferrin	Biosynthesis	FslC; rhizoferrin biosystnesis N-citrylornithine decarboxylase FslC	Carboxylate	NA	NCBI	500
+PRK10003.1	Coprogen-related	Import	FhuE; ferric-rhodotorulic acid/ferric-coprogen receptor FhuE	Hydroxamate	Receptor	NCBI	666
+PRK10044.1	Ferrichrome	Import	FhuA; ferrichrome porin FhuA	Hydroxamate	Porin	NCBI	803
+All_seq_Fusarinine	Fusarinine	Biosynthesis	sidD; Fusarinine C synthetase	Hydroxamate	NA	Present Study	2800.7
+All_seq_putSID2	Ferrichrome	Biosynthesis	sid2; Ferricrhome synthetase	Hydroxamate	NA	Present Study	6429.4
+F9X9V1_NRPS2_V2	Ferrichrome	Biosynthesis	NRPS2; Ferrichrome synthetase	Hydroxamate	NA	Present Study	10414.1
+Fer3_USTMA_V2	Ferrichrome	Biosynthesis	fer3; Ferrichrome synthetase	Hydroxamate	NA	Present Study	9077.3
+put_4WR82_SIDC_VF	Ferricrocin	Biosynthesis	SidC; Ferricrocin synthetase	Hydroxamate	NA	Present Study	7692.7
+put_B4EUG7_VF	Proteobactin	Biosynthesis	pbtI; Proteobactin siderophore synthesis, Citrate lyase beta chain	Carboxylate	NA	Present Study	518.7
+put_B4EUH0_VF	Proteobactin	Biosynthesis	pbtC; Proteobactin siderophore synthesis, putative lysine/ornithine decarboxylase	Carboxylate	NA	Present Study	752.7
+put_B4EUH1_V2	Proteobactin	Biosynthesis	pbtD; Proteobactin siderophore synthesis, putative pyridoxal-phosphate dependent enzyme	Carboxylate	NA	Present Study	655.6
+put_B4EUH2_VF	Proteobactin	Biosynthesis	pbtE; Proteobactin siderophore synthesis, putative Octopine/opine/tauropine dehydrogenase	Carboxylate	NA	Present Study	627.7
+put_B4EUH5_V4	Proteobactin	Biosynthesis	pbtH; Proteobactin siderophore synthesis, Uncharacterized protein	Carboxylate	NA	Present Study	202.7
+put_B4EXX6_V2	Yersiniabactin-like	Biosynthesis	nrpY; Yersiniabactin-like siderophore synthesis, Class I SAM-dependent methyltransferase	MIX	NA	Present Study	542.6
+put_B4EXY3_V2	Yersiniabactin-like	Biosynthesis	nrpG; Yersiniabactin-like siderophore synthesis, 4-phosphopantetheinyl transferase	MIX	NA	Present Study	306.4
+Put_copfam2_VF_corr	Coprogen-related	Biosynthesis	Copfam2; biosynthesis of a member of the coprogen family	Hydroxamate	NA	Present Study	2930.6
+Put_copfam3_VF_corr	Coprogen-related	Biosynthesis	Copfam3; biosynthesis of a member of the coprogen family	Hydroxamate	NA	Present Study	3265.4
+Put_copfam4_VF_corr	Coprogen-related	Biosynthesis	Copfam4; biosynthesis of a member of the coprogen family	Hydroxamate	NA	Present Study	3046.6
+put_CRL25140_VF	Ferricrocin	Biosynthesis	Ferricrocin synthetase	Hydroxamate	NA	Present Study	7936.4
+put_D4AU56_V3_corr	Ferricrocin	Biosynthesis	Ferricrocin synthetase	Hydroxamate	NA	Present Study	7453.5
+put_FcuA_V3_corr	Ferrichrome	Import	FcuA; Ferrichrome receptor FcuA	Hydroxamate	Receptor	Present Study	853.8
+put_Ferrirhodin_VF	Ferrirhodin	Biosynthesis	Ferrirhodin synthetase	Hydroxamate	NA	Present Study	8038.7
+put_FhuA_V3_corr	Ferrichrome	Import	FhuA; ferrichrome porin FhuA	Hydroxamate	Porin	Present Study	844
+put_FhuE_V2_corr	Coprogen-related	Import	FhuE; ferric-rhodotorulic acid/ferric-coprogen receptor FhuE	Hydroxamate	Receptor	Present Study	775.5
+put_FitA_VF	Coprogen-related	Import	FitA; TonB-dependent outer membrane ferric coprogen receptor FitA	Hydroxamate	Receptor	Present Study	868.4
+put_FiuA_V3_corr	Ferrichrome	Import	FiuA; Ferrichrome receptor FiuA	Hydroxamate	Receptor	Present Study	879.7
+put_I1RN14_NRPS2_VF	Ferricrocin	Biosynthesis	NRPS2; Ferricrocin synthetase	Hydroxamate	NA	Present Study	8568.1
+put_NRPS1_VF_corr	Coprogen-related	Biosynthesis	Copfam1; biosynthesis of a member of the coprogen family	Hydroxamate	NA	Present Study	2702.6
+put_Q5D6D7_NRPS2_VF	Ferricrocin	Biosynthesis	NRPS2; Ferricrocin synthetase	Hydroxamate	NA	Present Study	8969.5
+put_Q6CSN0_VF	Pulcherrimin	Import	PUL3; Pulcherrimin siderophore synthesis, MFS-type transporter	Hydroxamate	NA	Present Study	650
+put_Q6CSN3_VF	Pulcherrimin	Biosynthesis	PUL1; Pulcherrimin siderophore synthesis, cyclodipeptide synthase	Hydroxamate	NA	Present Study	1033.5
+put_RhbF_DesD_VF	Rhizobactin/Desferrioxamine	Biosynthesis	rhbF, desD;  RhbF familly of siderophore biosynthesis protein	MIX/Hydroxamate	NA	Present Study	19.2
+Put_rhizoferrin_VF_corr	Rhizoferrin	Biosynthesis	rfs; Rhizoferrin synthetase	Carboxylate	NA	Present Study	775.7
+put_rumB_VF	Rhizoferrin	Import	RumB; Rhizoferrin import system, periplasmic binding protein	Carboxylate	Substrate-binding	Present Study	413.8
+put_SidA1_V1	Multi_siderophores	Biosynthesis	sidA; L-ornithine N(5)-monooxygenase familly	Multiple families	NA	Present Study	277.8
+put_TAFC_VF	TAFC	Biosynthesis	sidG; triacetyl-fusarinine C synthetase	Hydroxamate	NA	Present Study	286.7
+put_WP_010220689_VF	7Hydroxytropolone	Biosynthesis	7-Hydroxytropolone siderophore synthesis, thiamine pyrophosphate-binding protein	Hydroxamate	NA	Present Study	971.4
+put_WP_010220690_VF	7Hydroxytropolone	Biosynthesis	7-Hydroxytropolone siderophore synthesis, phenylacetate--CoA ligase PaaK	Hydroxamate	NA	Present Study	850.9
+put_WP_010220691_VF	7Hydroxytropolone	Biosynthesis	7-Hydroxytropolone siderophore synthesis, acyl-CoA dehydrogenase family protein	Hydroxamate	NA	Present Study	689.3
+Q52US9_FSO1_V2	Ferrichrome	Biosynthesis	Fso1; Ferrichrome synthetase	Hydroxamate	NA	Present Study	8260.9
