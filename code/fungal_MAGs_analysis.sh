@@ -21,7 +21,7 @@ hmmpress All_HMMv4_fungal_ver.hmm
 for file in /METAEUK/AOP*.fas;
 do
    samplename=$(basename $file .fas)
-   hmmscan --domtblout /HMMER/${samplename}.tbl -E 0.00001 All_HMMv4_fungal_ver.hmm /METAEUK/${samplename}.fas
+   hmmscan --domtblout /HMMER/${samplename}.tbl -E 0.00001 all_iron_HMMs_fungal_ver.hmm /METAEUK/${samplename}.fas
 done
 conda deactivate
 for file in /HMMER/AOP*.tbl;
@@ -238,4 +238,5 @@ coverm genome --coupled /Raw_Reads/AOP9_A1_surf_R1.fastq.gz /Raw_Reads/AOP9_A1_s
 coverm genome --coupled /Raw_Reads/AOP9_A1_surf_R1.fastq.gz /Raw_Reads/AOP9_A1_surf_R2.fastq.gz --genome-fasta-files /Fungal_fasta/AOP9_A1_surf_bin.6.fa -o AOP9_A1_surf_bin.6
 coverm genome --coupled /Raw_Reads/AOP9_I1_surf_R1.fastq.gz /Raw_Reads/AOP9_I1_surf_R2.fastq.gz --genome-fasta-files /Fungal_fasta/AOP9_I1_surf_bin.15.fa -o AOP9_I1_surf_bin.15
 coverm genome --coupled /Raw_Reads/AOP9_I1_surf_R1.fastq.gz /Raw_Reads/AOP9_I1_surf_R2.fastq.gz --genome-fasta-files /Fungal_fasta/AOP9_I1_surf_bin.4.fa -o AOP9_I1_surf_bin.4
+
 
