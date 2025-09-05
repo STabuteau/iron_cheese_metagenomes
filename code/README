@@ -1,5 +1,5 @@
 This folder contains 9 files:
-#bash scripts
+# bash scripts
 HMMbuilt.sh is a script used to design and test HMM
 HMMer_MAGs_Genomes.sh is a script used to search HMMs on MAGs and/or genomes using HMMer
 HMMer_Metag.sh is a script used to search HMMs on metagenomes using HMMer and normalise data in RPKM
