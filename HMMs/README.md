@@ -1,0 +1,5 @@
+This folder contains 3 files:
+# HMM compressed files
+all_iron_HMMs.zip is a compressed file containing all the hidden Markov models (HMMs) used to detect genes involved in iron acquisition.  
+only_fungal_iron_HMMs.zip is a compressed file containing all the HMMs used to detect fungal genes involved in iron acquisition.  
+only_new_iron_HMMs.zip is a compressed file containing only the new HMMs designed for the detection of iron acquisition gene.  
