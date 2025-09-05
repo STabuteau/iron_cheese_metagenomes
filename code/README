@@ -1,1 +1,10 @@
-
+HMMbuilt.sh
+HMMer_MAGs_Genomes.sh
+HMMer_Metag.sh
+HMMs_metadata.tsv
+append_cov.R
+catfasta2phyml.pl
+fungal_MAGs_analysis.sh
+Update fungal_MAGs_analysis.sh
+merge_cov_qlen.R
+merge_files.R
