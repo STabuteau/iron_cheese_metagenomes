@@ -29,7 +29,7 @@ If you use these scripts or HMMs, please cite:
 Tabuteau S, Hervé V, Irlinger F, Monnet C. Metagenomic profiling and genome-centric analysis reveal iron acquisition systems in cheese-associated bacteria and fungi
 DOI: [DOI]
 
-## References:
+## References
 
 (Gardon et al., 2025)
 
