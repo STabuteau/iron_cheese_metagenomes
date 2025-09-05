@@ -15,7 +15,8 @@ The different scripts to run HMMer and process the data on metagenomes and MAGs/
 
 ### Fungal MAGs
 
-Fungal MAGs were retrieved from non-prokaryotic bins of the MetaPDOChese metagenomic dataset through identification of fungal markers using BUSCO (Manni et al., 2021). Taxonomic assignment of these MAGs was then performed using a phylogenetic approach with UFCG (Kim et al., 2023). The script for fungal identification and analysis is available in `code/`.
+Fungal MAGs were retrieved from non-prokaryotic bins of the MetaPDOChese metagenomic dataset through identification of fungal markers using BUSCO (Manni et al., 2021).  
+Taxonomic assignment of these MAGs was then performed using a phylogenetic approach with UFCG (Kim et al., 2023). The script for fungal identification and analysis is available in `code/`.
 
 ## Repository contents
 
