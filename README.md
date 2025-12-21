@@ -36,7 +36,7 @@ Aramaki, T., Blanc-Mathieu, R., Endo, H., Ohkubo, K., Kanehisa, M., Goto, S., an
 
 Garber, A.I., Nealson, K.H., Okamoto, A., McAllister, S.M., Chan, C.S., Barco, R.A., and Merino, N. (2020) FeGenie: A Comprehensive Tool for the Identification of Iron Genes and Iron Gene Neighborhoods in Genome and Metagenome Assemblies. *Front Microbiol* 11: 37.
 
-Gardon H, Tabuteau S, Irlinger F, Dugat-Bony E, Barbe V, Callon C, Cantuti Gendre J, Cruaud C, Delbès C, Gavory F, Loux V, Mohellibi N, Neuvéglise C, Renault P, Rué O, Theil S, Aury JM, Hervé V (2025) Scratching on French PDO cheese surfaces sheds light on an unexplored microbial genomic and metabolic diversity. bioRxiv 2025.12.15.694182 [doi: ](https://doi.org/10.64898/2025.12.15.694182)
+Gardon H, Tabuteau S, Irlinger F, Dugat-Bony E, Barbe V, Callon C, Cantuti Gendre J, Cruaud C, Delbès C, Gavory F, Loux V, Mohellibi N, Neuvéglise C, Renault P, Rué O, Theil S, Aury JM, Hervé V (2025) Scratching on French PDO cheese surfaces sheds light on an unexplored microbial genomic and metabolic diversity. bioRxiv 2025.12.15.694182 [https://doi.org/10.64898/2025.12.15.694182](https://doi.org/10.64898/2025.12.15.694182)
 
 Li, W., O’Neill, K.R., Haft, D.H., DiCuccio, M., Chetvernin, V., Badretdin, A., et al. (2021) RefSeq: expanding the Prokaryotic Genome Annotation Pipeline reach with protein family model curation. *Nucleic Acids Research* 49: D1020–D1028.
 
