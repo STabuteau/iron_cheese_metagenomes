@@ -1,8 +1,7 @@
 ## Iron acquisition systems in cheese microbial communities
 This repository contains scripts and Hidden Markov Models (HMMs) to detect iron acquisition genes in bacteria and fungi. These scripts and HMMs were used in this article :
 
-Tabuteau S, Hervé V, Irlinger F, Monnet C. (In Press) Metagenomic profiling and genome-centric analysis reveal iron acquisition systems in cheese-associated bacteria and fungi. *Environmental Microbiology*
-DOI: [DOI]
+Tabuteau S, Hervé V, Irlinger F, Monnet C. (2025) Metagenomic profiling and genome-centric analysis reveal iron acquisition systems in cheese-associated bacteria and fungi. *Environmental Microbiology*. 27(12):e70218. [https://doi.org/10.1111/1462-2920.70218](https://doi.org/10.1111/1462-2920.70218)
 
 The study investigates the iron acquisition systems (direct iron import and siderophore synthesis and import) in cheese microbial communities using metagenomes, metagenome-assembled genomes (MAGs), and genomes from the MetaPDOCheese project (Gardon et al., 2025). All details are presented in these two publications.
 
@@ -27,8 +26,7 @@ Taxonomic assignment of these MAGs was then performed using a phylogenetic appro
 
 If you use these scripts or HMMs, please cite:
 
-Tabuteau S, Hervé V, Irlinger F, Monnet C. (In Press) Metagenomic profiling and genome-centric analysis reveal iron acquisition systems in cheese-associated bacteria and fungi. *Environmental Microbiology*
-DOI: [DOI]
+Tabuteau S, Hervé V, Irlinger F, Monnet C. (2025) Metagenomic profiling and genome-centric analysis reveal iron acquisition systems in cheese-associated bacteria and fungi. *Environmental Microbiology*. 27(12):e70218. [https://doi.org/10.1111/1462-2920.70218](https://doi.org/10.1111/1462-2920.70218)
 
 ## References
 
