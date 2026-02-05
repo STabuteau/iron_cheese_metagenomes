@@ -1,7 +1,7 @@
 #Construct binary compressed datafiles for hmmscan and run hmmscan
 
 conda activate hmmer-3.3.2
-hmmpress All_HMMv4.hmm
+hmmpress all_iron_HMMs.hmm
 for file in /MAGs_GENOMES/*.faa;
 do
    samplename=$(basename $file .faa)
@@ -26,3 +26,4 @@ rm -f *_parse_file.tmp
 rm -f *_parse_merge.tsv
 
 cat *_parse_merge_bitscore_Count.tsv | grep -v 'Count' | sed '1iHMMs_ID\tCount\tGenomes' > Genomes_parse_merge_bitscore_Count.tsv
+
