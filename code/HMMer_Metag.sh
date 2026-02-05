@@ -1,6 +1,6 @@
 #Construct binary compressed datafiles for hmmscan and run hmmscan
 conda activate hmmer-3.3.2
-hmmpress All_HMMv4.hmm
+hmmpress all_iron_HMMs.hmm
 for file in /METAGENOMES/*.faa;
 do
    samplename=$(basename $file .faa)
@@ -368,3 +368,4 @@ sed 's/$/\tAOP9_I1_surf/' AOP9_I1_surf_RPKM_only.tsv > AOP9_I1_surf_RPKM_vf.tsv
 cat *_RPKM_vf.tsv > merged_RPKM.tsv
 
 sed -i '1 i\HMMs_ID\tRPKM\tMetagenomes' merged_RPKM.tsv
+
