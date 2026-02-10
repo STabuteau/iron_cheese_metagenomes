@@ -17,7 +17,7 @@ do
    sort -k4,4 | \
    awk 'BEGIN{FS="\t"; OFS="\t"}{if(($19-$18+1)/$6>=0.7){print $0,($19-$18+1),($19-$18+1)/$6}}' | awk 'BEGIN{FS="\t"; OFS="\t"}{print $1,$3,$4,$6,$8,$13,$16,$17,$18,$19,$NF}' | \
    sed 's/,/\./g' > ${samplename}_parse_file.tmp
-   Rscript merge_files.R ${samplename}_parse_file7.tmp HMMs_metadata.tsv ${samplename}_parse_merge.tsv
+   Rscript merge_files.R ${samplename}_parse_file.tmp HMMs_metadata.tsv ${samplename}_parse_merge.tsv
    awk -F '\t' '{if($5>=$NF) {print $0}}' ${samplename}_parse_merge.tsv | awk '$5 > max[$3] { max[$3] = $5; m[$3] = $0 } END { for (i in m) { print m[i] } }' > ${samplename}_parse_merge_bitscore.tsv
 done
 rm -f *_parse_file.tmp
@@ -368,4 +368,5 @@ sed 's/$/\tAOP9_I1_surf/' AOP9_I1_surf_RPKM_only.tsv > AOP9_I1_surf_RPKM_vf.tsv
 cat *_RPKM_vf.tsv > merged_RPKM.tsv
 
 sed -i '1 i\HMMs_ID\tRPKM\tMetagenomes' merged_RPKM.tsv
+
 
